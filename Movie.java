@@ -16,6 +16,7 @@ public class Movie {
     private String movieBlurb;
     private int movieLength;
     private int releaseYear;
+    //TEST
 
     /**
      * Default onstructor that initializes all movie fields
